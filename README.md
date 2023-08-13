@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aashishgulshan@gmail.com**
 
-- 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/1AoiOthEuQ83Gkfu_zoSOIKgI9MaLKR-D/view)
+- 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/1YihUChy-j_KOfluR-u04WFuesQXXDeIZ/view?usp=sharing)
 
 - ⚡ Fun fact **I made bad jokes**
 
