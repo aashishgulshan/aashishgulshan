@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aashish Gulshan</h1>
 <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan"/> </p>
 
+- 🔭 I’m currently working on [ **Mimi's - Food** ](https://mimis-v4.netlify.app/)
+  
 - 👋  A passionate frontend developer from Nalanda, India.
   
 - 👀  I ❤️ to write code **< / >** , share ideas ! 🚀
@@ -14,6 +16,7 @@
 - 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/1AoiOthEuQ83Gkfu_zoSOIKgI9MaLKR-D/view)
 
 - ⚡ Fun fact **I made bad jokes**
+
 
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=aashishgulshan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
