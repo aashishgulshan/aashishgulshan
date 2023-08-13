@@ -7,7 +7,6 @@
 - 💞️  I’m looking to collaborate on new ideas.
 - 📫  How to reach me. <a align="center" href="mailto:aashishgulshan@gmail.com" target="blank">aashishgulshan@gmail.com</a>
 
-   ![Most](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishgulshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=aashishgulshan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 -->
