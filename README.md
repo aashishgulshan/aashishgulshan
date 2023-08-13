@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aashish Gulshan</h1>
 <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan"/> </p>
 
-- 👋  A passionate frontend developer from Nalanda, India. 
-- 👀  I ❤️ to write code, share ideas, and made bad jokes! 🚀
-- 🌱  I’m currently working as Front-End Developer at Rashail Infotech.
-- 💞️  I’m looking to collaborate on new ideas.
-- 📫  How to reach me. <a align="center" href="mailto:aashishgulshan@gmail.com" target="blank">aashishgulshan@gmail.com</a>
+- 👋  A passionate frontend developer from Nalanda, India.
+  
+- 👀  I ❤️ to write code **< / >** , share ideas ! 🚀
+  
+- 👨‍💻 All of my projects are available at [https://aashish-gulshan.netlify.app/](https://aashish-gulshan.netlify.app/)
+
+- 💬 Ask me about **react, Tailwind CSS and JavaScript**
+
+- 📫 How to reach me **aashishgulshan@gmail.com**
+
+- 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/1AoiOthEuQ83Gkfu_zoSOIKgI9MaLKR-D/view)
+
+- ⚡ Fun fact **I made bad jokes**
 
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=aashishgulshan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
@@ -15,8 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/aashishgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashishgulshan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aashishgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashishgulshan" height="30" width="40" /></a>
-<a href="https://fb.com/aashishgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashishgulshan" height="30" width="40" /></a>
-<a href="https://instagram.com/aashish_gulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_gulshan" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/aashishgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashishgulshan" height="30" width="40" /></a>
+<a href="https://instagram.com/aashish_gulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_gulshan" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/aashishgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashishgulshan" height="30" width="40" /></a>
 </p>
 
