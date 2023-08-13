@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aashish Gulshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan"/> 
-  
-<a align="center" href="https://twitter.com/aashishgulshan" target="blank"><img src="https://img.shields.io/twitter/follow/aashishgulshan?logo=twitter&style=for-the-badge" alt="aashishgulshan" /></a> </p>
+<p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan"/> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aashishgulshan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-
+<a align="center" href="https://twitter.com/aashishgulshan" target="blank"><img src="https://img.shields.io/twitter/follow/aashishgulshan?logo=twitter&style=for-the-badge" alt="aashishgulshan" /></a>
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/aashishgulshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashishgulshan" height="30" width="40" /></a>
@@ -41,15 +39,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=aashishgulshan&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=aashishgulshan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=aashishgulshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishgulshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aashishgulshan&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true) 
-
-### ✍️ Random Dev Quote
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aashishgulshan&limit=7&theme=juicyfresh&combine_all_yearly_contributions=true) 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
