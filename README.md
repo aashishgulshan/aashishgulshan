@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Gulshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan" /> 
-
- <a align="center" href="https://twitter.com/aashishgulshan" target="blank"><img src="https://img.shields.io/twitter/follow/aashishgulshan?logo=twitter&style=for-the-badge" alt="aashishgulshan" /></a> </p>
+<p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan"/> <a align="center" href="https://twitter.com/aashishgulshan" target="blank"><img src="https://img.shields.io/twitter/follow/aashishgulshan?logo=twitter&style=for-the-badge" alt="aashishgulshan" /></a> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aashishgulshan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
