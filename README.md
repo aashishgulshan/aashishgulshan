@@ -4,19 +4,19 @@
 <!--
 - 🔭 I’m currently working on [ **Mimi's - Food** ](https://mimis-v4.netlify.app/) -->
   
-- 👋  A passionate frontend developer from India.
+- 👀 A passionate frontend developer from India. 🇮🇳
   
-- 👀  I ❤️ to write code **< / >** , share ideas ! 🚀
+- ➡️  I ❤️ to write **< code / >** , build **Apps** 🚀, and share **ideas** 💡 ! 
   
 - 👨‍💻 All of my projects are available at [aashish-gulshan.netlify.app](https://aashish-gulshan.netlify.app/)
 
 - 💬 Ask me about **react, Tailwind CSS and JavaScript**
 
-- 📫 How to reach me **aashishgulshan@gmail.com**
+- 📫 How to reach me [**GMAIL**](aashishgulshan@gmail.com)
 
-- 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/1YihUChy-j_KOfluR-u04WFuesQXXDeIZ/view?usp=sharing)
+- 📄 Know about my experiences = () => { [**RESUME**](https://drive.google.com/file/d/1YihUChy-j_KOfluR-u04WFuesQXXDeIZ/view?usp=sharing) , [**PORTFOLIO**](https://aashish-gulshan.netlify.app/) }
 
-- ⚡ Fun fact **I made bad jokes**
+<!-- ⚡ Fun fact **I made bad jokes** -->
 
 
 <!--
