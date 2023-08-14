@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [**GMAIL**](aashishgulshan@gmail.com)
 
-- 📄 Know about my experiences = () => { [**RESUME**](https://drive.google.com/file/d/1YihUChy-j_KOfluR-u04WFuesQXXDeIZ/view?usp=sharing) , [**PORTFOLIO**](https://aashish-gulshan.netlify.app/) }
+- 📄 Know about my experiences = () => { [**RESUME**](https://drive.google.com/file/d/10_KNoQ_B8k_-NeCwpAxmTNC8HYn97kXV/view?usp=sharing) , [**PORTFOLIO**](https://aashish-gulshan.netlify.app/) }
 
 <!-- ⚡ Fun fact **I made bad jokes** -->
 
