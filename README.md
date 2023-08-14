@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aashish Gulshan</h1>
 <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=aashishgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="aashishgulshan"/> </p>
 
-- 🔭 I’m currently working on [ **Mimi's - Food** ](https://mimis-v4.netlify.app/)
+<!--
+- 🔭 I’m currently working on [ **Mimi's - Food** ](https://mimis-v4.netlify.app/) -->
   
-- 👋  A passionate frontend developer from Nalanda, India.
+- 👋  A passionate frontend developer from India.
   
 - 👀  I ❤️ to write code **< / >** , share ideas ! 🚀
   
-- 👨‍💻 All of my projects are available at [https://aashish-gulshan.netlify.app/](https://aashish-gulshan.netlify.app/)
+- 👨‍💻 All of my projects are available at [aashish-gulshan.netlify.app](https://aashish-gulshan.netlify.app/)
 
 - 💬 Ask me about **react, Tailwind CSS and JavaScript**
 
