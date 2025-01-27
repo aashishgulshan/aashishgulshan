@@ -8,13 +8,13 @@
   
 - ➡️  I ❤️ to write **< code / >** , build **Apps** 🚀, and share **ideas** 💡 ! 
   
-- 👨‍💻 All of my projects are available at [aashish-gulshan.netlify.app](https://aashish-gulshan.netlify.app/)
+- 👨‍💻 All of my projects are available at [aashishgulshan.netlify.app](https://aashishgulshan.netlify.app/)
 
 - 💬 Ask me about **react, Tailwind CSS and JavaScript**
 
 - 📫 How to reach me [**GMAIL**](aashishgulshan@gmail.com)
 
-- 📄 Know about my experiences = () => { [**RESUME**](https://drive.google.com/file/d/10_KNoQ_B8k_-NeCwpAxmTNC8HYn97kXV/view?usp=sharing) , [**PORTFOLIO**](https://aashish-gulshan.netlify.app/) }
+- 📄 Know about my experiences = () => { [**RESUME**](https://drive.google.com/file/d/10_KNoQ_B8k_-NeCwpAxmTNC8HYn97kXV/view?usp=sharing) , [**PORTFOLIO**](https://aashishgulshan.netlify.app/) }
 
 <!-- ⚡ Fun fact **I made bad jokes** -->
 
